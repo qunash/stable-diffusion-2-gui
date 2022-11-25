@@ -11,4 +11,4 @@ Other pipelines (depth-to-image, inpainting, upscaling) will be added as soon as
 
 Colab by [anzorq](https://twitter.com/hahahahohohe). If you like it, please consider supporting me:
 
-[<a href="https://www.buymeacoffee.com/anzorq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32px" width="108px" alt="Buy Me A Coffee"></a>](https://www.buymeacoffee.com/anzorq)
+[<a href="https://www.buymeacoffee.com/anzorq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45px" width="162px" alt="Buy Me A Coffee"></a>](https://www.buymeacoffee.com/anzorq)
