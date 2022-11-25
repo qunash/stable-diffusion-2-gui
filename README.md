@@ -17,7 +17,7 @@ Colab by [anzorq](https://twitter.com/hahahahohohe). If you like it, please cons
 ![image](https://user-images.githubusercontent.com/3750161/203986329-13b8964e-9289-41ea-8c58-8eb0b04d19c9.PNG)
 
 ## Credits
-- Stable Diffusion - https://github.com/CompVis/stable-diffusion, https://github.com/CompVis/taming-transformers
+- Stable Diffusion - https://github.com/CompVis/stable-diffusion
 - DPM-Solver - https://github.com/LuChengTHU/dpm-solver
 
 <br>
