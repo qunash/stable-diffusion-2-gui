@@ -15,3 +15,5 @@ Colab by [anzorq](https://twitter.com/hahahahohohe). If you like it, please cons
 
 ---
 ![image](https://user-images.githubusercontent.com/3750161/203986329-13b8964e-9289-41ea-8c58-8eb0b04d19c9.PNG)
+
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=qunash/stable-diffusion-2-gui)](https://visitor-badge.glitch.me)
