@@ -14,7 +14,8 @@ Colab by [anzorq](https://twitter.com/hahahahohohe). If you like it, please cons
 [<a href="https://www.buymeacoffee.com/anzorq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45px" width="162px" alt="Buy Me A Coffee"></a>](https://www.buymeacoffee.com/anzorq)
 
 ---
-![image](https://user-images.githubusercontent.com/3750161/204110392-71e5c8a4-0d12-4b58-bca5-fc654c30da8e.PNG)
+<!-- ![image](https://user-images.githubusercontent.com/3750161/204110392-71e5c8a4-0d12-4b58-bca5-fc654c30da8e.PNG)-->
+![image](https://user-images.githubusercontent.com/3750161/204927560-b0d04daf-a185-4901-9420-41c2ef004d4e.PNG)
 
 
 ## Credits
