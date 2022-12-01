@@ -20,7 +20,7 @@ Colab by [anzorq](https://twitter.com/hahahahohohe). If you like it, please cons
 
 ## Credits
 - Stable Diffusion - https://github.com/CompVis/stable-diffusion
-- HuggingFace Diffusers🧨 https://github.com/huggingface/diffusers
+- HuggingFace Diffusers🧨 - https://github.com/huggingface/diffusers
 - DPM-Solver - https://github.com/LuChengTHU/dpm-solver
 
 <br>
