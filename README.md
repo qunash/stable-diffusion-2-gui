@@ -3,9 +3,7 @@
 Gradio app for [Stable Diffusion 2](https://huggingface.co/stabilityai/stable-diffusion-2) by [Stability AI](https://stability.ai/).
 It uses [Hugging Face](https://huggingface.co/) Diffusers🧨 implementation.
 
-Currently supported pipelines are `text-to-image`, `image-to-image`, `inpainting` and `upscaling`.
-
-depth-to-image will be added as soon as it's implemented in the Diffusers🧨 library.
+Currently supported pipelines are `text-to-image`, `image-to-image`, `inpainting`, `upscaling` and `depth-to-image`.
 
 <br>
 
