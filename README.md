@@ -13,7 +13,9 @@ Colab by [anzorq](https://twitter.com/hahahahohohe). If you like it, please cons
 
 ---
 <!-- ![image](https://user-images.githubusercontent.com/3750161/204110392-71e5c8a4-0d12-4b58-bca5-fc654c30da8e.PNG)-->
-![image](https://user-images.githubusercontent.com/3750161/204927560-b0d04daf-a185-4901-9420-41c2ef004d4e.PNG)
+<!-- ![image](https://user-images.githubusercontent.com/3750161/204927560-b0d04daf-a185-4901-9420-41c2ef004d4e.PNG)-->
+![image](https://user-images.githubusercontent.com/3750161/206595521-bab75882-6eeb-4ad8-bf77-3385158647e3.PNG)
+
 
 
 ## Credits
