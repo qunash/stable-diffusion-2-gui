@@ -5,6 +5,8 @@ It uses [Hugging Face](https://huggingface.co/) Diffusers🧨 implementation.
 
 Currently supported pipelines are `text-to-image`, `image-to-image`, `inpainting`, `upscaling` and `depth-to-image`.
 
+[![Discord](https://img.shields.io/discord/1060110102188797992?color=green&label=Join%20server&logo=discord)](https://discord.gg/ggEX7hSpfw)
+
 <br>
 
 Colab by [anzorq](https://twitter.com/hahahahohohe). If you like it, please consider supporting me:
