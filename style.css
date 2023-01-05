@@ -1,0 +1,24 @@
+.main-div div{
+    display:inline-flex;
+    align-items:center;
+    gap:.8rem;
+    font-size:1.75rem
+}
+.main-div div h1{
+    font-weight:900;
+    margin-bottom:7px
+}
+.main-div p{
+    margin-bottom:10px;
+    font-size:94%
+}
+a{
+    text-decoration:underline
+}
+.tabs{
+    margin-top:0;
+    margin-bottom:0
+}
+#gallery{
+    min-height:20rem
+}
