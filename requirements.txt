@@ -1,0 +1,6 @@
+diffusers==0.14.0
+transformers==4.27.1
+accelerate==0.12.0
+scipy
+ftfy
+gradio==3.16.0
